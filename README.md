@@ -4,6 +4,11 @@ A Flutter application demonstrating CRUD (Create, Read, Update, Delete) operatio
 
 🔧 Built with Flutter, Firebase, and Material Design.
 
+## 📽 Preview
+
+![App Demo](preview/crud_app.gif)
+
+
 ## Features
 
 - ✨ **Firebase Integration**: Utilizes Firebase Firestore for real-time database operations.
